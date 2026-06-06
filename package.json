@@ -1,7 +1,8 @@
 {
-  "name": "trae-project",
+  "name": "experiment-version-control",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "实验版本记录系统 - 保存数据处理脚本、参数和结果文件的版本，支持版本对比和回滚",
   "type": "module",
   "scripts": {
     "dev": "vite",
